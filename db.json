@@ -1,19 +1,11 @@
 {
-  "users": [
-    {
-      "id": "9814cff2-0ded-4c9d-958b-54a623d585a0",
-      "username": "razkibungas@gmail.com",
-      "email": "razkibungas@gmail.com",
-      "fullname": "Razki Bungas",
-      "password": "$2a$10$h8jKKTN07ucorqqEFsrBE.wTjxvk105fhbGmNgpHFvmNhZhg5L6MG",
-      "role": "admin",
-      "status": "offline",
-      "createdAt": "2026-07-30T14:56:03.773Z",
-      "lastActive": "2026-07-30T16:34:51.178Z",
-      "avatar": "https://ui-avatars.com/api/?name=Administrator&background=FF6B35&color=fff&size=100"
-    }
-  ],
-  "messages": [],
-  "version": "1.0.0",
-  "lastUpdated": "2024-01-15T10:30:00.000Z"
+  "users": [],
+  "orders": [],
+  "deposits": [],
+  "products": [
+    { "id": "p1", "name": "Netflix Premium", "price": 25000, "days": 30, "role": "member" },
+    { "id": "p2", "name": "Spotify Premium", "price": 20000, "days": 30, "role": "member" },
+    { "id": "p3", "name": "Viu Premium", "price": 15000, "days": 30, "role": "member" },
+    { "id": "p4", "name": "Vidio Platinum", "price": 30000, "days": 30, "role": "member" }
+  ]
 }
