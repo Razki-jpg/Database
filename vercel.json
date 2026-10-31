@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://URL-BACKEND-KAMU.com/api/:path*"
+      "destination": "http://31.58.158.191:35134/api/:path*"
     }
   ]
 }
